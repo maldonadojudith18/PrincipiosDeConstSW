@@ -2,6 +2,6 @@
 # Universidad Veracruzana 
 # Principios de Construccion de Software
 # Ingeneria en software 
-# ntegrantes:
+# Integrantes:
 Jimena Mota Basilio
 Judith Maldonado Garcia
